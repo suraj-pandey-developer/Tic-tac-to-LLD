@@ -1,0 +1,7 @@
+--------------- Assignment 1 ---------------
+
+Implement the Builder class to be fully functional
+    - Implement the build() method
+    - Handle all validation scenarios
+        -  only 1 Bot
+        -  No 2 player with same symbol
